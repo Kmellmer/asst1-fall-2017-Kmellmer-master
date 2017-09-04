@@ -1,0 +1,17 @@
+This file should contain descriptions of all the outside resources you used on doing this assignment, as was discussed on class.
+
+Date: September 1 2017
+Problem: I didn't know how to generate a random number in order to set my random color for the shapes
+Resource used: I googled "How to generate a random color in Android Java" and found a solution on stack overFlow
+https://stackoverflow.com/questions/6029495/how-can-i-generate-random-number-in-specific-range-in-android
+Solution: I was able to determind that you need to use the Random class to create a new random variable, then set that variable according to a certain
+parameter of numbers, and from there set the values for rgb in order to create a random color.
+
+Date: Septemeber 3 2017
+Problem: I forgot how to set up an implementation of one class to another
+Resource used: I googled "How to use inheritance in java" and found a post on StackOverflow where I was able to find a post and use it as a template for my code
+https://stackoverflow.com/questions/31086146/inheritance-and-private-variables-in-java
+Resource used: I also looked at my previous coding activities from CS 203 and used that as a template for my code
+Solution: I was able to determine that I need to use "extends" as well as "super" in subclasses in order for the implementation to work.
+
+
